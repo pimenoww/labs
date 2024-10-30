@@ -8,3 +8,5 @@ try to add new info
 
 
 shtoby dobavit eti stroki mne nado propisat git push!!!!
+
+eto 8 laba sitairis
